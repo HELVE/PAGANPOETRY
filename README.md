@@ -1,2 +1,2 @@
-# PAGANPOETRY
+# PAGAN POETRY VR
 VR Ritual App
